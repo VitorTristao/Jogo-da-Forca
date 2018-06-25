@@ -1,0 +1,25 @@
+.linha{
+	margin-top: 100px;
+	height:70px; 
+	width:70px;
+}
+#forca{
+	margin-left: 550px;
+}
+#linha_1{
+	margin-left: 300px;
+}
+.linha1{
+	margin-bottom: 100px;
+	height:70px; 
+	width:70px;
+}
+#teclado{
+	margin-top: -100px;
+}
+#linha16{
+	margin-left: 300px;
+}
+#titulo{
+	color: red;
+}
